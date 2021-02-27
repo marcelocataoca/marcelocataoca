@@ -1,5 +1,7 @@
 ### Hi there 👋
+My name is Marcelo Kenji Cataoca, I'm software developer (+4 years) graduated in System Analyst and Developer, living Brazil and currently working on @arboimoveis.
 
+📫 Contact-me on : [Linkedin](https://www.linkedin.com/in/marcelo-kenji-cataoca-9769a5124/)
 <!--
 **marcelocataoca/marcelocataoca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
