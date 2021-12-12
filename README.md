@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Marcelo Kenji Cataoca, I'm software developer (+3 years) graduated in System Analyst and Developer, living Brazil and currently working on Bankme.
+My name is Marcelo Kenji Cataoca, I'm software developer (+3 years) graduated in System Analyst and Developer, living Brazil and currently working at Bankme.
 
 📫 Contact-me on : [Linkedin](https://www.linkedin.com/in/marcelo-kenji-cataoca-9769a5124/)
 <!--
